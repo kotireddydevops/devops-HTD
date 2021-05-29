@@ -1,0 +1,116 @@
+ 65  ls
+   66  cat exercises/
+   67  ls exercises/
+   68  vi abc
+   69  ls
+   70  sh abc.sh
+   71  mv abc abc.sh
+   72  sh abc.sh
+   73  cat abc.sh
+   74  vi abc.sh
+   75  sh abc.sh
+   76  vi abc.sh
+   77  sh abc.sh
+   78  vi abc.sh
+   79  sh abc.sh
+   80  vi abc.sh
+   81  sh abc.sh
+   82  cat abc.sh
+   83  ls
+   84  vi abc.sh
+   85  sh abc.sh
+   86  vi abc.sh
+   87  sh abc.sh
+   88  echo $?
+   89  myprint
+   90  cat abc.sh
+   91  sh abc.sh
+   92  vi abc.sh
+   93  sh abc.sh
+   94  echo $?
+   95  vi abc.sh
+   96  sh abc.sh
+   97  vi functions.sh
+   98  sh functions.sh
+   99  vi functions.sh
+  100  sh functions.sh
+  101  cd ..
+  102  ls
+  103  cat hosts.2021-05-29.20468
+  104  cd exercises/
+  105  ls
+  106  vi array.sh
+  107  sh array.sh
+  108  vi array.sh
+  109  sh array.sh
+  110  vi array.sh
+  111  sh array.sh
+  112  vi array.sh
+  113  sh array.sh
+  114  vi array.sh
+  115  sh array.sh
+  116  chmod +x array.sh
+  117  sh array.sh
+  118  ./array.sh
+  119  vi array.sh
+  120  ./array.sh
+  121  sh array.sh
+  122  vi array.sh
+  123  cat abc.sh
+  124  vi array.sh
+  125  vi xyz.sh
+  126  sh xyz.sh
+  127  cat abc.sh
+  128  vi array.sh
+  129  sh array.sh
+  130  vi array.sh
+  131  ls
+  132  vi eval.sh
+  133  sh eval.sh
+  134  cat eval.sh
+  135  ls
+  136  vi shiftparameters.sh
+  137  sh shiftparameters.sh
+  138  sh shiftparameters.sh a b c d
+  139  sh shiftparameters.sh a c d b
+  140  sh shiftparameters.sh d c b a
+  141  vi ifs
+  142  vi ifs.sh
+  143  cd ..
+  144  ls
+  145  cd dth
+  146  ls
+  147  cd devops
+  148  ls
+  149  git pull
+  150  ls
+  151  cd shellScripting/
+  152  ls
+  153  cd exercises/
+  154  ls
+  155  vi ifs.sh
+  156  sh ifs.sh
+  157  cat /etc/passwd
+  158  vi ifs.sh
+  159  sh ifs.sh
+  160  sh ifs.sh 1
+  161  sh ifs.sh 2
+  162  sh ifs.sh ubuntu
+  163  sh ifs.sh root
+  164  cat /etc/passwd
+  165  cat /etc/passwd | grep ubuntu
+  166  vi ifs.sh
+  167  sh ifs.sh backup
+  168  sh ifs.sh ubuntu
+  169  ls
+  170  cd ..
+  171  ls
+  172  cd exercises/
+  173  ls
+  174  cd 1
+  175  ls
+  176  sh palindrome.sh
+  177  vi palindrome.sh
+  178  sh bubble_sort.sh
+  179  vi bubble_sort.sh
+  180  sh pascal_triangle.sh
