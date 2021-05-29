@@ -1,0 +1,6 @@
+goto url
+http://csci.viu.ca/~barskym/teaching/DM2012/labs/LAB6/SampleApp.html
+
+
+copy link address >> Download file Lab6A.war to your computer
+wget in server of webapps
